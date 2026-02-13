@@ -1,0 +1,15 @@
+[theme]
+primaryColor = "#1E88E5"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F5F7FA"
+textColor = "#202124"
+
+[server]
+maxUploadSize = 500  # Para planilhas grandes com muitas fotos
+
+[browser]
+gatherUsageStats = false
+
+[cache]
+maxCacheSize = 500
+ttl = 43200  # 12 horas
